@@ -33,7 +33,7 @@
         <td colspan="2" align="center">
         <p align="center">
             <a href="https://github.com/imuchnik">
-            <img alt="Irina's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=imuchnikn&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+            <img alt="Irina's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=imuchnik&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
             </a>
         </p>
         </td>
