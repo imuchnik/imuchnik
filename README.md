@@ -10,7 +10,7 @@
   <p align="center">
     <strong><a href="https://github.com/imuchnik/jenkins-automation">JAC or Jenkins-as-Code</a></strong> was our pre-Jenkinsfile attempt to make sense of our Jenkins Infrastructure
     <br/>
-    👉 Read more about it here — <a href="https://marcesher.com/2016/06/08/jenkins-as-code-creating-jenkins-jobs-with-text-not-clicks/">drop a ⭐</a> to keep it at front.
+    👉 Read more about it  — <a href="https://marcesher.com/2016/06/08/jenkins-as-code-creating-jenkins-jobs-with-text-not-clicks/">here</a> Drop a ⭐to keep it at front.
   </p>
 </details>
 
